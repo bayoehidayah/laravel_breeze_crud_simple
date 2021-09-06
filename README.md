@@ -6,6 +6,7 @@
 5. MongoDB
 
 # How to Use
-1. install breeze | run -> php artisan breeze:install
-2. install node.js | run -> npm install && npm run dev
-3. migrate
+1. composer install
+2. install breeze | run -> php artisan breeze:install
+3. install node.js | run -> npm install && npm run dev
+4. migrate
